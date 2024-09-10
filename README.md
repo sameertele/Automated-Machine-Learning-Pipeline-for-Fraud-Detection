@@ -1,6 +1,6 @@
 # **Automated Machine Learning Pipeline for Fraud Detection**
 
-This project demonstrates how to set up an automated machine learning (ML) pipeline for fraud detection using Azure Machine Learning (AML). The pipeline consists of multiple stages including data ingestion, preprocessing, model training, and deployment. The project is built using Python and Azure ML SDK and is designed to automate retraining and deployment with new data.
+This project demonstrates how to set up an automated machine learning (ML) pipeline for fraud detection using Azure Machine Learning. The pipeline consists of multiple stages including data ingestion, preprocessing, model training, and deployment. The project is built using Python and Azure ML SDK and is designed to automate retraining and deployment with new data.
 
 ## **Dataset**
 
